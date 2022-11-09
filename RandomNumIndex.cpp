@@ -77,6 +77,7 @@ int cupLocation(int n, vector<vector<int> > d, int k)
 
 }
 
+//This is main function to declare vectors and other related variables and take user input
 int main()
 {
 
