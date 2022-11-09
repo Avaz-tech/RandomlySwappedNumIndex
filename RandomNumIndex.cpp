@@ -6,6 +6,7 @@ using  namespace std;
 int cupLocation(int n, vector<vector<int> > d, int k)
 {
     int answer = 0;
+    
     int a=0, b=0, temp=0;
     vector<int> cup(n);
     // Storing cups in array of cup
