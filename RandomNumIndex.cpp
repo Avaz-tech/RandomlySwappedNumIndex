@@ -42,7 +42,7 @@ int cupLocation(int n, vector<vector<int> > d, int k)
           }
        } 
        cout << "]"<< endl;
-       
+       // Swap cups according to swap_array inputs
          temp = cup[a];
          cup[a] = cup[b];
          cup[b] = temp;
